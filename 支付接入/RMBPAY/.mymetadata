@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="RMBPAY"
+  id="myeclipse.1388457011827"
+  context-root="/RMBPAY"
+  j2ee-spec="5.0"
+  archive="RMBPAY.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
